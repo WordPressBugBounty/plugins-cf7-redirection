@@ -3,7 +3,7 @@
  * Plugin Name:  Successful Redirection for Contact Form 7
  * Plugin URI:   http://www.wordpresstechy.com/contactform-7-redirection-plugin-download-easy-download-install/
  * Description:  Successful Redirection for Contact Form 7 - Redirect after mail sent.
- * Version:      1.0
+ * Version:      2.0
  * Author:       JAYASREE TU
  * Author URI:   http://www.wordpresstechy.com/
  * Requires at least: 4.7.0

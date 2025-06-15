@@ -1,8 +1,8 @@
-=== Successful Redirection for Contact Form 7 ===
+=== Successful Redirection for Contact Form ===
 Tags: Form success redirection thank you page,Successful Redirection for Contact Form 7
 Requires at least: 4.7.0
-Tested up to: 6.4.3
-Stable tag: 1.3.5
+Tested up to: 6.8.1
+Stable tag: 2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 

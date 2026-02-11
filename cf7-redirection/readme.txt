@@ -28,7 +28,7 @@ Simply go to your form settings, choose the "Redirect Settings" tab and set the 
 * Open page in a new tab
 * Run JavaScript after form submission (great for conversion management)
 * Pass fields from the form as URL query parameters
-* More Information Visit our Official Website: http://www.wordpresstechy.com/
+* More Information Visit our Official Website.
 
  
 

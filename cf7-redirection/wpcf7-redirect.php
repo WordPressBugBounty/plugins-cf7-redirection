@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:  Successful Redirection for Contact Form 7
- * Plugin URI:   http://www.wordpresstechy.com/contactform-7-redirection-plugin-download-easy-download-install/
+ * Plugin URI:   https://wordpress.org/plugins/cf7-redirection/
  * Description:  Successful Redirection for Contact Form 7 - Redirect after mail sent.
  * Version:      2.0
  * Author:       JAYASREE TU
- * Author URI:   http://www.wordpresstechy.com/
+ * Author URI:   https://profiles.wordpress.org/jayasree2020/
  * Requires at least: 4.7.0
  *
  * Text Domain: Successful Redirection for Contact Form 7
@@ -318,9 +318,7 @@ class WPCF7_Redirect {
 
 			<div class="wpcf7-redirect-pro-admin-notice updated notice is-dismissible">
 				<p>
-					<a href="http://www.wordpresstechy.com/" target="_blank">
-						Visit Our Website for New Features.
-					</a>
+					 
 				</p>
 			</div>
 
@@ -485,9 +483,7 @@ class WPCF7_Redirect {
 				<textarea id="wpcf7-redirect-after-sent-script" name="wpcf7-redirect[after_sent_script]" rows="8" cols="100"><?php echo $fields['after_sent_script']; ?></textarea>
                                  <div class="wpcf7-redirect-pro-admin-noticev updatedv noticev is-dismissiblev">
 				<p>
-					<a href="http://www.wordpresstechy.com/" target="_blank">
-						Visit Our Website for New Features.
-					</a>
+					 
 				</p>
 			</div>		
 				<div class="field-notice field-warning-alert field-notice-hidden">
